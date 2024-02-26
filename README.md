@@ -9,6 +9,7 @@ Estou entusiasmada para continuar aprendendo e aprimorar minhas habilidades, uti
 ### Tecnologias e Ferramentas 🖥️
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes"/></code>
 
 ## Contatos 📧
 <div> 
