@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%AF" alt="Typing SVG" />
+</h1>
+
 ## Sobre mim 😄
 Olá! Meu nome é Ingrid Maciel. Sou estudante de Ciência da Computação na UFABC e estou embarcando em uma jornada de aprimoramento através do curso Back-End oferecido pela Ada, com um enfoque especial em Java. Atualmente, estou integrando a equipe de DevOps, onde trabalho com tecnologias como Shell Script, Azure Pipelines e Kubernetes.
 Estou entusiasmada para continuar aprendendo e aprimorando minhas habilidades, utilizando tecnologias como Java, Kubernetes, Charts.
