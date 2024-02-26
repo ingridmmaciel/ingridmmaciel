@@ -3,7 +3,7 @@
 </h1>
 
 ## Sobre mim 😄
-Olá! Meu nome é Ingrid Maciel. Sou estudante de Ciência da Computação na UFABC e estou embarcando em uma jornada de aprimoramento através do curso Back-End oferecido pela Ada, com um enfoque especial em Java. Atualmente, estou integrando a equipe de DevOps, onde trabalho com tecnologias como Shell Script, Azure Pipelines e Kubernetes.
+Olá! Meu nome é Ingrid Maciel. Sou estudante de Ciência da Computação na UFABC e estou embarcando em uma jornada de aprimoramento através do curso Back-End oferecido pela Ada, com um enfoque especial em Java. Atualmente, estou trabalhando com DevOps, onde utilizo tecnologias como Shell Script, Azure Pipelines e Kubernetes.
 Estou entusiasmada para continuar aprendendo e aprimorar minhas habilidades, utilizando tecnologias como Java, Kubernetes, Charts.
 
 ### Tecnologias e Ferramentas 🖥️
